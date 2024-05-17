@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the first and award-winning open-source compang in MENA
 
 **Developers & supporters are always needed!**
 
