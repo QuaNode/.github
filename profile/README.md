@@ -10,4 +10,4 @@
 
 🍿 So you are like us!
 
-🧙 Remember, you can learn, contribute, and get paid by joining. Follow to start
+🧙 Remember, you can learn, contribute, and get paid by joining. [Follow](https://github.com/quanode/beamjs/subscription) to start
