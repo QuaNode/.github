@@ -1,4 +1,4 @@
-## Welcome to the first and award-winning open-source company in MENA
+## Welcome to the first and award-winning private IoB open-source company in MENA
 
 **Developers & supporters are always needed!**
 
