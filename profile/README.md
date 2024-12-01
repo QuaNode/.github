@@ -2,7 +2,7 @@
 
 **Developers & supporters are always needed!**
 
-🙋‍♀️ We are creating [BEAMJS](https://github.com/QuaNode/beamjs)
+🙋‍♀️ We are creating [BEAMJS](https://github.com/QuaNode/beamjs) private IoB framework
 
 🌈 If you can stick to static analysis [Codacy](https://docs.codacy.com/repositories/repository-dashboard/)
 
