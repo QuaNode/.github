@@ -1,8 +1,8 @@
-## Welcome to the first and award-winning private IoB open-source company in MENA
+## Welcome to the first and award-winning open-source company in MENA
 
 **Developers & supporters are always needed!**
 
-🙋‍♀️ We are creating [BEAMJS](https://github.com/QuaNode/beamjs)
+🙋‍♀️ We are creating [BEAMJS](https://github.com/QuaNode/beamjs) private IoB framework
 
 🌈 If you can stick to static analysis [Codacy](https://docs.codacy.com/repositories/repository-dashboard/)
 
