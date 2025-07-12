@@ -2,7 +2,7 @@
 
 **Developers & supporters are always needed!**
 
-🙋‍♀️ We’re building [BEAMJS](https://github.com/QuaNode/beamjs) — a generative AI **Inversion-of-Control (IoC)** and private **Inversion-of-Behavior (IoB)** framework.
+🙋‍♀️ We’re building [BEAMJS](https://github.com/QuaNode/beamjs) — a generative AI **Inversion-of-Control (IoC)** and private **Internet-of-Behaviors (IoB)** framework.
 
 🌈 Like things clean? Stick to static analysis and quality gates with [Codacy](https://docs.codacy.com/repositories/repository-dashboard/)
 
