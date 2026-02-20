@@ -11,3 +11,8 @@
 🍿 If that sounds like you — you're already one of us.
 
 🧙‍♂️ You can **learn**, **contribute**, and even **get paid** by joining the project. [👉 Follow us](https://github.com/quanode/beamjs/subscription) to get started.
+
+<p align="center">
+  <img src="../ioc.jpeg" width="45%" alt="Inversion of Control" />
+  <img src="../Intelligence.jpeg" width="45%" alt="Intelligence" />
+</p>
