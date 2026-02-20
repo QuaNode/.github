@@ -1,4 +1,4 @@
-## Welcome to the first award-winning open-source company in MENA — and the world’s first inversion-of-control framework for generative AI
+## Welcome to the first award-winning open-source company in MENA — and the world’s first inversion-of-control (causal AI) framework for generative AI
 
 **Developers & supporters are always needed!**
 
