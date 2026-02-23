@@ -12,6 +12,14 @@
 
 🧙‍♂️ You can **learn**, **contribute**, and even **get paid** by joining the project. [👉 Follow us](https://github.com/quanode/beamjs/subscription) to get started.
 
+## The Evolution: Trustful AI-First through Causal AI
+
+From **software engineering** to **executable context engineering**. Here, "executable" no longer means writing code; it means writing conceptual context—without needing deep logical rules or rigid specs—and letting the system iterate alongside you.
+
+- **Design-First:** Prioritizing behavioral and domain models over code or just specs.
+- **AI-First:** Embedding AI natively to orchestrate and generate system behaviors dynamically.
+- **Causal AI (IoC):** Advancing AI from correlational outputs to deterministic, logically-grounded cause-and-effect reasoning, underpinning robust **Internet-of-Behaviors (IoB)** ecosystems.
+##
 <p align="center">
   <img src="ioc.jpeg" width="100%" alt="Inversion of Control" />
 </p>
