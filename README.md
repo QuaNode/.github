@@ -26,3 +26,6 @@ From **software engineering** to **executable context engineering**. Here, "exec
 <p align="center">
   <img src="Intelligence.jpeg" width="100%" alt="Intelligence" />
 </p>
+<p align="center">
+  <img src="causality.jpeg" width="100%" alt="Causality" />
+</p>
